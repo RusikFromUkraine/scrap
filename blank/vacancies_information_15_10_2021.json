@@ -1,0 +1,954 @@
+[
+    {
+        "id": "4545114",
+        "vacancy": "Middle QA Automation Engineer (Python)",
+        "company": "Murka",
+        "city": "Київ",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 2 років. "
+    },
+    {
+        "id": "4595558",
+        "vacancy": "Python developer в Киев",
+        "company": "Murka",
+        "city": "Київ, шукаємо у Дніпрі",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "4462476",
+        "vacancy": "Python-программист, преподаватель",
+        "company": "Шаг, компьютерная академия (Днепр)",
+        "city": "Дніпро, проспект Дмитра Яворницького, 101.",
+        "requirements": "Неповна зайнятість. Досвід роботи від 2 років. Вища освіта. "
+    },
+    {
+        "id": "4558898",
+        "vacancy": "Python Software Engineer",
+        "company": "MEV",
+        "city": "Черкаси, вулиця Пушкіна, 100.",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 2 років. "
+    },
+    {
+        "id": "4435988",
+        "vacancy": "Python-разработчик (Data Science, Algorithms)",
+        "company": "Unilimes",
+        "city": "Одеса, Зоопаркова вулиця.",
+        "requirements": "Повна зайнятість. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "4486367",
+        "vacancy": "Senior System Validation Engineer (Python)",
+        "company": "Infineon Technologies",
+        "city": "Львів, Luhanska Street, 20.",
+        "requirements": "Повна зайнятість, готові взяти людину з інвалідністю. Досвід роботи від 2 років. Вища освіта. "
+    },
+    {
+        "id": "4394939",
+        "vacancy": "Python Developer",
+        "company": "Eva, лінія магазинів",
+        "city": "Дніпро, вулиця Володимира Антоновича, 6.",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 1 року. Вища освіта. "
+    },
+    {
+        "id": "4362189",
+        "vacancy": "Python developer",
+        "company": "Асканія, група компаній",
+        "city": "Київ, Новопечерський провулок, 5.",
+        "requirements": "Повна зайнятість. Досвід роботи від 2 років. Вища освіта. "
+    },
+    {
+        "id": "4160647",
+        "vacancy": "Senior Python Engineer",
+        "company": "Intel 471",
+        "city": "Київ, вулиця Ольгинська.",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 5 років. Вища освіта. "
+    },
+    {
+        "id": "4160649",
+        "vacancy": "Middle Python Engineer",
+        "company": "Intel 471",
+        "city": "Київ, вулиця Ольгинська.",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 2 років. Вища освіта. "
+    },
+    {
+        "id": "4589789",
+        "vacancy": "Strong Junior Python Developer (Beeswax/AdTech)",
+        "company": "Sigma Software",
+        "city": "Дніпро",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 2 років. Вища освіта. "
+    },
+    {
+        "id": "4589786",
+        "vacancy": "Strong Junior Python Developer (Beeswax/AdTech)",
+        "company": "Sigma Software",
+        "city": "Харків",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 2 років. Вища освіта. "
+    },
+    {
+        "id": "4589779",
+        "vacancy": "Strong Junior Python Developer (Beeswax/AdTech)",
+        "company": "Sigma Software",
+        "city": "Львів, вулиця Наукова, 7d.",
+        "requirements": "Повна зайнятість. Досвід роботи від 2 років. Вища освіта. "
+    },
+    {
+        "id": "4589771",
+        "vacancy": "Strong Junior Python Developer (Beeswax/AdTech)",
+        "company": "Sigma Software",
+        "city": "Івано-Франківськ",
+        "requirements": "Повна зайнятість. Досвід роботи від 2 років. Вища освіта. "
+    },
+    {
+        "id": "4589116",
+        "vacancy": "Программист Ruby/Python",
+        "company": "Microinvest",
+        "city": "Запоріжжя",
+        "requirements": "Повна зайнятість. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "4324545",
+        "vacancy": "Python Software Engineer",
+        "company": "Frag Lab",
+        "city": "Київ",
+        "requirements": "Повна зайнятість. Досвід роботи від 2 років. "
+    },
+    {
+        "id": "4519611",
+        "vacancy": "Python developer",
+        "company": "MyCredit",
+        "city": "Київ, Арсенальна площа.",
+        "requirements": "Повна зайнятість. Досвід роботи від 2 років. "
+    },
+    {
+        "id": "4311097",
+        "vacancy": "Middle Python Developer",
+        "company": "Тісейл Україна, ТОВ",
+        "city": "Львів",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "4575470",
+        "vacancy": "Software Engineer (Python)",
+        "company": "SPS Commerce",
+        "city": "Київ, вулиця Богдана Хмельницького, 17.",
+        "requirements": "Повна зайнятість, готові взяти студента, готові взяти людину з інвалідністю. Досвід роботи від 2 років. Вища освіта. "
+    },
+    {
+        "id": "4554449",
+        "vacancy": "Middle Full Stack Python Engineer (Online employment marketplace)",
+        "company": "Sigma Software",
+        "city": "Дніпро",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 2 років. Вища освіта. "
+    },
+    {
+        "id": "4521198",
+        "vacancy": "Python developer",
+        "company": "Кредит Ризик Менеджмент Консалтинг, ТОВ",
+        "city": "Київ",
+        "requirements": "Повна зайнятість. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "4500488",
+        "vacancy": "Викладач курсів з Python",
+        "company": "CyberBionic Systematics",
+        "city": "Київ, вулиця Євгена Сверстюка, 19.",
+        "requirements": "Неповна зайнятість, дистанційна робота. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "3984817",
+        "vacancy": "Middle/Senior Python Developer",
+        "company": "4bill.io",
+        "city": "Київ, вулиця Володимирська, 101.",
+        "requirements": "Повна зайнятість. Досвід роботи від 2 років. Вища освіта. "
+    },
+    {
+        "id": "4599542",
+        "vacancy": "Викладач Python",
+        "company": "Білокур Л.В., ФОП",
+        "city": "Полтава, вулиця Пилипа Орлика, 36А.",
+        "requirements": "Повна зайнятість, неповна зайнятість. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "4554447",
+        "vacancy": "Middle Full Stack Python Engineer (Online employment marketplace)",
+        "company": "Sigma Software",
+        "city": "Харків, вулиця Академіка Проскури, 1.",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 2 років. Вища освіта. "
+    },
+    {
+        "id": "3760787",
+        "vacancy": "Аналітик (SQL, Python)",
+        "company": "Фора, ТОВ",
+        "city": "Київ",
+        "requirements": "Повна зайнятість. Досвід роботи від 1 року. Вища освіта. "
+    },
+    {
+        "id": "4587505",
+        "vacancy": "Trainee Python Developer",
+        "company": "Aimprosoft",
+        "city": "Харків",
+        "requirements": "Повна зайнятість. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "4589127",
+        "vacancy": "Strong Junior Python Developer (Beeswax/AdTech)",
+        "company": "Sigma Software",
+        "city": "Київ, вулиця Ярославська, 58.",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 2 років. Вища освіта. "
+    },
+    {
+        "id": "4438564",
+        "vacancy": "Python developer",
+        "company": "Dzencode LLC",
+        "city": "Харків, проспект Науки, 56.",
+        "requirements": "Повна зайнятість. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "4554442",
+        "vacancy": "Middle Full Stack Python Engineer (Online employment marketplace)",
+        "company": "Sigma Software",
+        "city": "Львів, вулиця Наукова, 7d.",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 2 років. Вища освіта. "
+    },
+    {
+        "id": "4588281",
+        "vacancy": "Программист Ruby/Python",
+        "company": "Microinvest",
+        "city": "Дніпро",
+        "requirements": "Повна зайнятість. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "4515395",
+        "vacancy": "Python Software Engineer",
+        "company": "MEV",
+        "city": "Львів, вулиця Миколи Вороного, 3.",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 2 років. "
+    },
+    {
+        "id": "4554444",
+        "vacancy": "Middle Full Stack Python Engineer (Online employment marketplace)",
+        "company": "Sigma Software",
+        "city": "Київ, вулиця Ярославська, 58.",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 2 років. Вища освіта. "
+    },
+    {
+        "id": "4554448",
+        "vacancy": "Middle Full Stack Python Engineer (Online employment marketplace)",
+        "company": "Sigma Software",
+        "city": "Івано-Франківськ",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 2 років. Вища освіта. "
+    },
+    {
+        "id": "4598940",
+        "vacancy": "Викладач програмування у дитячу школу (Scratch, Python)",
+        "company": "Logika, мiжнародна школа програмування для дiтей",
+        "city": "Київ",
+        "requirements": "Повна зайнятість, готові взяти студента. Досвід роботи від 1 року. Незакінчена вища освіта. "
+    },
+    {
+        "id": "4564162",
+        "vacancy": "Python developer",
+        "company": "Ашан",
+        "city": "Київ, проспект Степана Бандери, 15А.",
+        "requirements": "Повна зайнятість. Досвід роботи від 1 року. Вища освіта. "
+    },
+    {
+        "id": "4523417",
+        "vacancy": "Middle Python Developer",
+        "company": "Riabova, сервис подбора офисов",
+        "city": "Київ, бульвар Лесі Українки, 34.",
+        "requirements": "Повна зайнятість. Досвід роботи від 2 років. "
+    },
+    {
+        "id": "4598577",
+        "vacancy": "Python developer",
+        "company": "Andersen",
+        "city": "Київ, вулиця Жилянська, 75.",
+        "requirements": "Повна зайнятість. Досвід роботи від 2 років. "
+    },
+    {
+        "id": "4239844",
+        "vacancy": "Python Developer (SEO Team)",
+        "company": "EvoPlay",
+        "city": "Київ",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 2 років. "
+    },
+    {
+        "id": "4487084",
+        "vacancy": "Інженер (Python)",
+        "company": "Нарвіс, ТОВ",
+        "city": "Київ, вулиця Новокостянтинівська, 2А.",
+        "requirements": "Повна зайнятість. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "4439630",
+        "vacancy": "Junior/Middle Python Developer",
+        "company": "Оникс, интернет-компания",
+        "city": "Кропивницький (Кіровоград), вулиця Тараса Карпи, 76.",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "4272146",
+        "vacancy": "Middle/Senior Automation QA Engineer (Python)",
+        "company": "NIX",
+        "city": "Харків, вулиця Каразіна, 2.",
+        "requirements": "Повна зайнятість. Досвід роботи від 2 років. "
+    },
+    {
+        "id": "3717203",
+        "vacancy": "Junior Python Full stack developer",
+        "company": "WeMyIT",
+        "city": "Запоріжжя, вулиця Патріотична.",
+        "requirements": "Повна зайнятість, готові взяти студента. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "4551902",
+        "vacancy": "Senior Python Developer",
+        "company": "InStandart",
+        "city": "Херсон, вулиця Гімназична.",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 2 років. Вища освіта. "
+    },
+    {
+        "id": "4494674",
+        "vacancy": "Python developer",
+        "company": "АКС Моторс, ТОВ",
+        "city": "Київ",
+        "requirements": "Дистанційна робота. Досвід роботи від 1 року. Вища освіта. "
+    },
+    {
+        "id": "3349240",
+        "vacancy": "Python junior программист",
+        "company": "Атлон Авиа, НПП",
+        "city": "Київ, вулиця Тростянецька.",
+        "requirements": "Повна зайнятість. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "4597601",
+        "vacancy": "Junior Python Full stack developer",
+        "company": "WeMyIT",
+        "city": "Запоріжжя, вулиця Патріотична.",
+        "requirements": "Повна зайнятість, готові взяти студента. "
+    },
+    {
+        "id": "3575572",
+        "vacancy": "Python Developer (Medium/Senior)",
+        "company": "IXIoo",
+        "city": "Львів, Sheremety Street, 27.",
+        "requirements": "Повна зайнятість. Досвід роботи від 2 років. "
+    },
+    {
+        "id": "4453978",
+        "vacancy": "Data analyst (Python)",
+        "company": "Vodafone Україна",
+        "city": "Київ, вулиця Старонаводницька, 4В.",
+        "requirements": "Повна зайнятість. Досвід роботи від 2 років. Вища освіта. "
+    },
+    {
+        "id": "4542448",
+        "vacancy": "Junior Python Developer (Scrapy)",
+        "company": "GroupBWT",
+        "city": "Запоріжжя",
+        "requirements": "Повна зайнятість, готові взяти студента. "
+    },
+    {
+        "id": "1942965",
+        "vacancy": "Python/С++ developer (Machine Learning)",
+        "company": "Absolutist, game company",
+        "city": "Дніпро",
+        "requirements": "Повна зайнятість. Досвід роботи від 1 року. Вища освіта. "
+    },
+    {
+        "id": "4573485",
+        "vacancy": "Python developer",
+        "company": "Maklai",
+        "city": "Київ, вулиця Васильківська, 14.",
+        "requirements": "Повна зайнятість. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "4560857",
+        "vacancy": "Middle python developer (Online)",
+        "company": "Robocode",
+        "city": "Київ",
+        "requirements": "Повна зайнятість. Досвід роботи від 2 років. Вища освіта. "
+    },
+    {
+        "id": "4511883",
+        "vacancy": "Junior Python developer (USA project)",
+        "company": "Newsoft",
+        "city": "Львів, вулиця Зелена, 149.",
+        "requirements": "Повна зайнятість, готові взяти студента. "
+    },
+    {
+        "id": "4584641",
+        "vacancy": "Junior Python Developer",
+        "company": "Скілео, ТзОВ",
+        "city": "Львів, вулиця Варшавська.",
+        "requirements": "Повна зайнятість, готові взяти студента. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "4596191",
+        "vacancy": "Викладач програмування (Python, Scratch)",
+        "company": "Logika, мiжнародна школа програмування для дiтей",
+        "city": "Дружківка",
+        "requirements": "Повна зайнятість, неповна зайнятість, готові взяти студента. Досвід роботи від 1 року. Вища освіта. "
+    },
+    {
+        "id": "4584648",
+        "vacancy": "Junior Python Developer",
+        "company": "Скілео, ТзОВ",
+        "city": "Рівне",
+        "requirements": "Повна зайнятість, готові взяти студента. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "4461075",
+        "vacancy": "Викладач програмування у дитячу школу (Scratch, Python)",
+        "company": "Logika, мiжнародна школа програмування для дiтей",
+        "city": "Київ, проспект Правди, 35.",
+        "requirements": "Неповна зайнятість, готові взяти студента. Досвід роботи від 1 року. Незакінчена вища освіта. "
+    },
+    {
+        "id": "3922535",
+        "vacancy": "Embedded Linux developer (C, C++, Python)",
+        "company": "Ozzylogik LTD",
+        "city": "Київ",
+        "requirements": "Повна зайнятість. Досвід роботи від 2 років. Вища освіта. "
+    },
+    {
+        "id": "4515856",
+        "vacancy": "Middle Python developer",
+        "company": "Garant Service",
+        "city": "Київ, вулиця Жилянська, 59.",
+        "requirements": "Повна зайнятість. Досвід роботи від 2 років. Вища освіта. "
+    },
+    {
+        "id": "4022446",
+        "vacancy": "Python Developer",
+        "company": "Apriorit",
+        "city": "Дніпро, вулиця Князя Володимира Великого, 34б.",
+        "requirements": "Повна зайнятість. Досвід роботи від 2 років. Вища освіта. "
+    },
+    {
+        "id": "4498130",
+        "vacancy": "Full stack developer (python and JS)",
+        "company": "EvoPlay",
+        "city": "Київ",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "4571033",
+        "vacancy": "Junior Developer (PHP, JS, Java, C/C++, C#, Ruby, Python)",
+        "company": "LuckyWare Pro",
+        "city": "Харків",
+        "requirements": "Повна зайнятість. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "4536733",
+        "vacancy": "Python-розробник",
+        "company": "Аптека АНЦ",
+        "city": "Дніпро",
+        "requirements": "Повна зайнятість. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "4582231",
+        "vacancy": "Data science (python, sql)",
+        "company": "Forward Bank",
+        "city": "Київ, вулиця Саксаганського, 105.",
+        "requirements": "Повна зайнятість. Досвід роботи від 2 років. Вища освіта. "
+    },
+    {
+        "id": "4340116",
+        "vacancy": "Python, Django junior developer",
+        "company": "USSI",
+        "city": "Київ, бульвар Вацлава Гавела.",
+        "requirements": "Повна зайнятість, готові взяти студента. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "3706383",
+        "vacancy": "Python developer (Django)",
+        "company": "HolyAff by AP Digital",
+        "city": "Київ",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 2 років. "
+    },
+    {
+        "id": "4571041",
+        "vacancy": "Middle Developer (PHP, JS, Java, C/C++, C #, Ruby, Python)",
+        "company": "LuckyWare Pro",
+        "city": "Харків",
+        "requirements": "Повна зайнятість. Досвід роботи від 2 років. "
+    },
+    {
+        "id": "4530676",
+        "vacancy": "Python Developer",
+        "company": "EvoPlay",
+        "city": "Київ",
+        "requirements": "Повна зайнятість. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "4581820",
+        "vacancy": "Middle Python Developer",
+        "company": "InStandart",
+        "city": "Херсон, вулиця Гімназична.",
+        "requirements": "Дистанційна робота. Досвід роботи від 2 років. Вища освіта. "
+    },
+    {
+        "id": "4460796",
+        "vacancy": "Викладач програмування (Python, Scratch)",
+        "company": "Logika, мiжнародна школа програмування для дiтей",
+        "city": "Костянтинівка",
+        "requirements": "Повна зайнятість, неповна зайнятість, готові взяти студента. Досвід роботи від 1 року. Вища освіта. "
+    },
+    {
+        "id": "4594079",
+        "vacancy": "PHP/Python-разработчик (Back End)",
+        "company": "Ви-Порт",
+        "city": "Київ, вулиця Героїв Дніпра, 18.",
+        "requirements": "Повна зайнятість. Досвід роботи від 2 років. "
+    },
+    {
+        "id": "4376133",
+        "vacancy": "Python/Django Web Developer (Middle+)",
+        "company": "SoftFormance",
+        "city": "Львів",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 2 років. "
+    },
+    {
+        "id": "3771894",
+        "vacancy": "Python developer",
+        "company": "Atlas IAC",
+        "city": "Київ",
+        "requirements": "Повна зайнятість. Досвід роботи від 2 років. "
+    },
+    {
+        "id": "4592621",
+        "vacancy": "Back-end developer (Python)",
+        "company": "Бондарь А.Н., ФЛП",
+        "city": "Київ",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "4510956",
+        "vacancy": "Backend Python Developer",
+        "company": "Intertrade",
+        "city": "Київ",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "4592165",
+        "vacancy": "Backend (PHP/Python) разработчик",
+        "company": "Голець П.В., ФОП",
+        "city": "Київ, вулиця Героїв Дніпра, 18.",
+        "requirements": "Повна зайнятість. Досвід роботи від 2 років. Вища освіта. "
+    },
+    {
+        "id": "4461029",
+        "vacancy": "Викладач програмування у дитячу школу (Scratch, Python)",
+        "company": "Logika, мiжнародна школа програмування для дiтей",
+        "city": "Славутич",
+        "requirements": "Неповна зайнятість, готові взяти студента. "
+    },
+    {
+        "id": "4461124",
+        "vacancy": "Викладач програмування у дитячу школу (Scratch, Python)",
+        "company": "Logika, мiжнародна школа програмування для дiтей",
+        "city": "Київ, вулиця Ділова, 16.",
+        "requirements": "Неповна зайнятість, готові взяти студента. Досвід роботи від 1 року. Незакінчена вища освіта. "
+    },
+    {
+        "id": "4461008",
+        "vacancy": "Викладач програмування у дитячу школу (Scratch, Python)",
+        "company": "Logika, мiжнародна школа програмування для дiтей",
+        "city": "Прилуки",
+        "requirements": "Неповна зайнятість, готові взяти студента. "
+    },
+    {
+        "id": "4461037",
+        "vacancy": "Викладач програмування у дитячу школу (Scratch, Python)",
+        "company": "Logika, мiжнародна школа програмування для дiтей",
+        "city": "Ніжин, Воздвиженська, 4.",
+        "requirements": "Неповна зайнятість, готові взяти студента. "
+    },
+    {
+        "id": "4590253",
+        "vacancy": "Python Developer",
+        "company": "Swan Software Solutions",
+        "city": "Полтава",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 2 років. Вища освіта. "
+    },
+    {
+        "id": "4589739",
+        "vacancy": "Python-програміст",
+        "company": "Ambisafe",
+        "city": "Київ",
+        "requirements": "Повна зайнятість. Досвід роботи від 2 років. Вища освіта. "
+    },
+    {
+        "id": "4587919",
+        "vacancy": "Test Automation Engineer (Python)",
+        "company": "TalentOpen",
+        "city": "Хмельницький",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 2 років. "
+    },
+    {
+        "id": "4587714",
+        "vacancy": "Junior/Mid Python-разработчик",
+        "company": "City hub",
+        "city": "Київ",
+        "requirements": "Повна зайнятість. Досвід роботи від 2 років. "
+    },
+    {
+        "id": "4533949",
+        "vacancy": "Младший программист Python, Junior developer (AI ML NLP BigData)",
+        "company": "Alternativa, international recruitment agency",
+        "city": "Дніпро",
+        "requirements": "Повна зайнятість, дистанційна робота, готові взяти студента. Незакінчена вища освіта. "
+    },
+    {
+        "id": "4587248",
+        "vacancy": "Викладач у дитячу ІТ-школу програмування (Scratch, Python)",
+        "company": "Logika, мiжнародна школа програмування для дiтей",
+        "city": "Дрогобич",
+        "requirements": "Повна зайнятість, неповна зайнятість, готові взяти студента. Незакінчена вища освіта. "
+    },
+    {
+        "id": "4586195",
+        "vacancy": "Python-программист",
+        "company": "AspinsSoft",
+        "city": "Одеса",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 2 років. "
+    },
+    {
+        "id": "4542968",
+        "vacancy": "Odoo developer (Python)",
+        "company": "CRMiUM",
+        "city": "Київ",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 1 року. Вища освіта. "
+    },
+    {
+        "id": "4473015",
+        "vacancy": "Full-stack Python developer",
+        "company": "ReZet",
+        "city": "Запоріжжя",
+        "requirements": "Повна зайнятість. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "4584859",
+        "vacancy": "Backend Разработчик PHP/Python (mid+/senior)",
+        "company": "Papabrand",
+        "city": "Київ",
+        "requirements": "Повна зайнятість, неповна зайнятість, дистанційна робота. Досвід роботи від 2 років. "
+    },
+    {
+        "id": "4584739",
+        "vacancy": "Junior Python/DataScience Engineer",
+        "company": "Scrumlaunch",
+        "city": "Харків, Нетеченська набережна, 8.",
+        "requirements": "Повна зайнятість, неповна зайнятість, готові взяти студента. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "4584651",
+        "vacancy": "Junior Python Developer",
+        "company": "Скілео, ТзОВ",
+        "city": "Тернопіль",
+        "requirements": "Повна зайнятість, готові взяти студента. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "2632776",
+        "vacancy": "Middle+/Senior Python Developer",
+        "company": "ISI technology",
+        "city": "Дніпро",
+        "requirements": "Повна зайнятість. Досвід роботи від 2 років. Вища освіта. "
+    },
+    {
+        "id": "4529807",
+        "vacancy": "Junior Python Developer",
+        "company": "PixelTeh",
+        "city": "Запоріжжя, вулиця Ливарна, 40.",
+        "requirements": "Повна зайнятість. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "3963111",
+        "vacancy": "Python-програміст (стажер)",
+        "company": "Цилюрик В.І., ФОП",
+        "city": "Київ, проспект Перемоги, 123.",
+        "requirements": "Неповна зайнятість, готові взяти студента. Незакінчена вища освіта. "
+    },
+    {
+        "id": "4002341",
+        "vacancy": "Middle Python Developer",
+        "company": "Trade development-2018",
+        "city": "Чернівці, проспект Незалежності, 111.",
+        "requirements": "Повна зайнятість, дистанційна робота, готові взяти студента, готові взяти людину з інвалідністю. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "3057263",
+        "vacancy": "Middle Python Developer",
+        "company": "LigaTaxi",
+        "city": "Київ",
+        "requirements": "Повна зайнятість. Досвід роботи від 2 років. "
+    },
+    {
+        "id": "4581196",
+        "vacancy": "Младший программист Python, Junior developer (AI ML NLP BigData)",
+        "company": "Alternativa, international recruitment agency",
+        "city": "Кривий Ріг",
+        "requirements": "Повна зайнятість, дистанційна робота, готові взяти студента. Незакінчена вища освіта. "
+    },
+    {
+        "id": "4580947",
+        "vacancy": "Python developer",
+        "company": "Anadea Inc",
+        "city": "Київ",
+        "requirements": "Повна зайнятість. Досвід роботи від 2 років. Вища освіта. "
+    },
+    {
+        "id": "4371938",
+        "vacancy": "Викладач комп'ютерних курсів для дітей у напрямку Python",
+        "company": "Академія Професій Майбутнього",
+        "city": "Покровськ (Красноармійськ), вулиця Торгівельна, 16.",
+        "requirements": "Неповна зайнятість, готові взяти студента, готові взяти людину з інвалідністю. Незакінчена вища освіта. "
+    },
+    {
+        "id": "3497198",
+        "vacancy": "Python developer",
+        "company": "Ciat International",
+        "city": "Київ, вулиця Жилянська, 62/64.",
+        "requirements": "Повна зайнятість. Досвід роботи від 5 років. "
+    },
+    {
+        "id": "4579921",
+        "vacancy": "Python Automation Engineer у Львів",
+        "company": "PLVision",
+        "city": "Львів, шукаємо у Харкові",
+        "requirements": "Повна зайнятість, дистанційна робота, готові взяти студента, готові взяти людину з інвалідністю. Досвід роботи від 1 року. Незакінчена вища освіта. "
+    },
+    {
+        "id": "4579478",
+        "vacancy": "Trainee/Junior Python/Django Developer, Automate QA Engineer",
+        "company": "I3 Engineering",
+        "city": "Львів, вулиця Під Голоском, 2.",
+        "requirements": "Повна зайнятість, готові взяти студента. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "4398624",
+        "vacancy": "Python Test Automation Engineer",
+        "company": "I3 Engineering",
+        "city": "Львів, вулиця Під Голоском, 2.",
+        "requirements": "Повна зайнятість. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "4573699",
+        "vacancy": "Python developer",
+        "company": "Softum (IT)",
+        "city": "Дніпро, вулиця Троїцька, 21.",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "4439154",
+        "vacancy": "Разработчик Python/Full Stack",
+        "company": "Атлас Сервис, ООО",
+        "city": "Київ, вулиця Волинська, 9.",
+        "requirements": "Повна зайнятість. Досвід роботи від 1 року. Вища освіта. "
+    },
+    {
+        "id": "2456594",
+        "vacancy": "Junior/Middle Python Developer",
+        "company": "LeadSoft",
+        "city": "Львів",
+        "requirements": "Повна зайнятість, неповна зайнятість, готові взяти студента. "
+    },
+    {
+        "id": "4572525",
+        "vacancy": "Младший программист Python, Junior developer (AI ML NLP BigData)",
+        "company": "Alternativa, international recruitment agency",
+        "city": "Харків",
+        "requirements": "Повна зайнятість, дистанційна робота, готові взяти студента. Незакінчена вища освіта. "
+    },
+    {
+        "id": "4571887",
+        "vacancy": "Intern/Junior Python Developer",
+        "company": "CHI Software",
+        "city": "Харків, вулиця Отакара Яроша.",
+        "requirements": "Повна зайнятість, готові взяти студента. "
+    },
+    {
+        "id": "3940506",
+        "vacancy": "Middle Back-end Developer (Python/﻿ PHP/﻿ Node. js)",
+        "company": "Dinamicka Development",
+        "city": "Київ, вулиця Джона Маккейна.",
+        "requirements": "Повна зайнятість. Досвід роботи від 2 років. Вища освіта. "
+    },
+    {
+        "id": "4180387",
+        "vacancy": "Middle BackEnd developer (Python, Django)",
+        "company": ":DTeam",
+        "city": "Київ",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 2 років. "
+    },
+    {
+        "id": "4571184",
+        "vacancy": "Python developer (Flask)",
+        "company": "Cadabra, студия дизайна и разработки",
+        "city": "Дніпро",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 2 років. Вища освіта. "
+    },
+    {
+        "id": "4570109",
+        "vacancy": "Strong Python Coder for Crypto Trading Startup",
+        "company": "Revolion",
+        "city": "Київ",
+        "requirements": "Повна зайнятість, неповна зайнятість, дистанційна робота, готові взяти студента, готові взяти людину з інвалідністю. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "4557905",
+        "vacancy": "Senior Python Developer",
+        "company": "BSG",
+        "city": "Київ, вулиця Верхній Вал, 2А.",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 2 років. "
+    },
+    {
+        "id": "4404554",
+        "vacancy": "Python Middle Developer",
+        "company": "Itransition",
+        "city": "Київ, Спортивна площа, 1a.",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 2 років. "
+    },
+    {
+        "id": "4404556",
+        "vacancy": "Python Middle Developer",
+        "company": "Itransition",
+        "city": "Харків, вулиця Академіка Павлова, 271.",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 2 років. "
+    },
+    {
+        "id": "4567957",
+        "vacancy": "Python developer",
+        "company": "The Gravity Agency",
+        "city": "Запоріжжя",
+        "requirements": "Повна зайнятість. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "4507957",
+        "vacancy": "Python, Django developer",
+        "company": "Infinit",
+        "city": "Київ",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "4565650",
+        "vacancy": "Senior Python Developer",
+        "company": "Uvik",
+        "city": "Чернівці",
+        "requirements": "Повна зайнятість. Досвід роботи від 2 років. "
+    },
+    {
+        "id": "4565640",
+        "vacancy": "Middle Full Stack Python Developer",
+        "company": "Uvik",
+        "city": "Івано-Франківськ",
+        "requirements": "Повна зайнятість. Досвід роботи від 2 років. "
+    },
+    {
+        "id": "3090154",
+        "vacancy": "Middle Python Developer",
+        "company": "Uvik",
+        "city": "Чернівці",
+        "requirements": "Повна зайнятість. Досвід роботи від 2 років. Вища освіта. "
+    },
+    {
+        "id": "3023230",
+        "vacancy": "Middle Python Developer",
+        "company": "Uvik",
+        "city": "Івано-Франківськ",
+        "requirements": "Повна зайнятість. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "4563896",
+        "vacancy": "Викладач у дитячу ІТ-школу програмування (Scratch, Python)",
+        "company": "Logika, мiжнародна школа програмування для дiтей",
+        "city": "Стрий",
+        "requirements": "Повна зайнятість, неповна зайнятість, готові взяти студента. Незакінчена вища освіта. "
+    },
+    {
+        "id": "4563892",
+        "vacancy": "Викладач у дитячу ІТ-школу програмування (Scratch, Python)",
+        "company": "Logika, мiжнародна школа програмування для дiтей",
+        "city": "Червоноград",
+        "requirements": "Повна зайнятість, неповна зайнятість, готові взяти студента. Незакінчена вища освіта. "
+    },
+    {
+        "id": "4204410",
+        "vacancy": "Преподаватель курса \"Программирование на Python\"",
+        "company": "Junior IT, школа программирования для детей",
+        "city": "Київ, вулиця Маршала Тимошенка, 13А.",
+        "requirements": "Повна зайнятість, неповна зайнятість, готові взяти студента. "
+    },
+    {
+        "id": "4460015",
+        "vacancy": "Викладач програмування в дитячу школу (Python)",
+        "company": "Logika, мiжнародна школа програмування для дiтей",
+        "city": "Коростень",
+        "requirements": "Неповна зайнятість, готові взяти студента. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "4399097",
+        "vacancy": "Python, ML Developer у Дніпро",
+        "company": "Binerals",
+        "city": "Дніпро, шукаємо у Києві, проспект Пушкіна.",
+        "requirements": "Повна зайнятість, готові взяти студента. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "3750419",
+        "vacancy": "Преподаватель курсов программирования Python (Пайтон)",
+        "company": "Прогресс, европейский образовательный центр",
+        "city": "Київ",
+        "requirements": "Неповна зайнятість. Досвід роботи від 5 років. "
+    },
+    {
+        "id": "4556801",
+        "vacancy": "Python engineer",
+        "company": "Scrumfactory",
+        "city": "Харків, Нетеченська набережна, 8Б.",
+        "requirements": "Повна зайнятість, неповна зайнятість, дистанційна робота, готові взяти студента, готові взяти людину з інвалідністю. Досвід роботи від 2 років. "
+    },
+    {
+        "id": "4557774",
+        "vacancy": "Python/Django Developer (Intern)",
+        "company": "SteelKiwi",
+        "city": "Одеса",
+        "requirements": "Повна зайнятість, дистанційна робота, готові взяти студента. "
+    },
+    {
+        "id": "4555374",
+        "vacancy": "Middle Python Developer",
+        "company": "JayaDigital",
+        "city": "Київ",
+        "requirements": "Повна зайнятість, дистанційна робота. Досвід роботи від 2 років. "
+    },
+    {
+        "id": "1665750",
+        "vacancy": "Python developer",
+        "company": "Quintagroup",
+        "city": "Львів",
+        "requirements": "Повна зайнятість, неповна зайнятість, дистанційна робота, готові взяти студента. "
+    },
+    {
+        "id": "3931679",
+        "vacancy": "Fullstack-программист (Python, Javascript)",
+        "company": "Okumy",
+        "city": "Дніпро",
+        "requirements": "Неповна зайнятість, дистанційна робота, готові взяти людину з інвалідністю. Досвід роботи від 2 років. "
+    },
+    {
+        "id": "4382128",
+        "vacancy": "Программист Python Odoo/Django",
+        "company": "1000Geeks",
+        "city": "Одеса, вулиця Преображенська, 45.",
+        "requirements": "Повна зайнятість. Досвід роботи від 1 року. "
+    },
+    {
+        "id": "3061923",
+        "vacancy": "Программист (Python, Gamedev)",
+        "company": "Wonderland games",
+        "city": "Київ",
+        "requirements": "Повна зайнятість, готові взяти студента. "
+    }
+]
