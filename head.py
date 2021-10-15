@@ -16,9 +16,8 @@ headers = {
 
 def get_job_url(url):
     """
-    Возвращает все прямые ссылки на вакансию
-    :param url:
-    :return:
+    :param url: урл странички поиска
+    :return: все ссылки на вакансии на этой страничке
     """
     job_urls = []
     req = requests.get(url=url, headers=headers)
@@ -55,14 +54,11 @@ def get_max_page(url):
 
 def search_job(url=f'https://www.work.ua/jobs-it-python/'):
     """
-    Собирает все странички с вакансиями,
-    и собирает все ссылки на вакансии в один список
-    :return:
+    :param url: урл поиска
+    :return: возвращает все ссылки на вакансии
     """
-    # Сбор всех страничек(необязательно)
     max_page = get_max_page(url)
     all_job_url = []
-    # Сохраняю все вакансии в один список(можно передавать ссылки сюда напрямую)
     for page in range(1, max_page+1):
         print(f'Страница {page} в обработке...')
         time.sleep(1)
@@ -71,6 +67,10 @@ def search_job(url=f'https://www.work.ua/jobs-it-python/'):
 
 
 def get_information(urls):
+    """
+    :param urls: сслыки на вакансии
+    :return: данные о каждой вакансии
+    """
     print('Извлечение данных...')
     count = 0
     vacancies_information = []
@@ -101,6 +101,9 @@ def get_information(urls):
     return vacancies_information
 
 def main():
+    """
+    Записываем все данные в json файл под текущей датой
+    """
     cur_date = datetime.now().strftime("%d_%m_%Y")
     with open(fr"blank\vacancies_information_{cur_date}.json", "a", encoding='utf-8') as file:
         json.dump(get_information(search_job()), file, indent=4, ensure_ascii=False)
