@@ -1,69 +1,66 @@
 from bs4 import BeautifulSoup
+from datetime import datetime
+from fake_useragent import UserAgent
 import requests
 import json
 import os
 import time
-from datetime import datetime
+
 
 if not os.path.exists("blank"):
     os.mkdir("blank")
 
+ua = UserAgent()
+
 headers = {
     'Accept': 'text/html, */*; q=0.01',
-    'User-Agent': '' #используйте юзер агент своего браузера
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0)Gecko/20100101 Firefox/93.0'
 }
 
-
-def get_job_url(url):
-    """
-    :param url: урл странички поиска
-    :return: все ссылки на вакансии на этой страничке
-    """
-    job_urls = []
-    req = requests.get(url=url, headers=headers)
-    soup = BeautifulSoup(req.text, 'lxml')
-    h2_list = soup.find_all('h2', class_='')
-    a_list = []
-    for job in h2_list:
-        a_list.append(job.find('a'))
-    for item in a_list:
-        try:
-            job_urls.append('https://www.work.ua' + item.get('href'))
-        except Exception:
-            continue
-    return job_urls
+main_url = r'https://www.work.ua/jobs-it-python/'
 
 
-def get_max_page(url):
-    """
-    Нет возможности чтобы получить количество страниц с вакансиями напрямую =\
-    :param url: урл странички с запросом
-    :return: количество страниц с вакансиями.
-    """
-    req = requests.get(url=url, headers=headers)
-    soup = BeautifulSoup(req.text, 'lxml')
-    m_p = soup.find('ul', class_='pagination hidden-xs').find_all('a')
-    max_page = 0
-    for item in m_p:
-        if item.text.isnumeric():
-            num = int(item.text)
-            if num > max_page:
-                max_page = num
-    return max_page
+def url_scrap(url=f'https://www.work.ua/jobs-it-python/'):
+    def get_job_url(url_):
+        """
+        :param url_: урл странички поиска
+        :return: все ссылки на вакансии на этой страничке
+        """
+        job_urls = []
+        req = requests.get(url=url_, headers=headers)
+        soup = BeautifulSoup(req.text, 'lxml')
+        h2_list = soup.find_all('h2', class_='')
+        a_list = []
+        for job in h2_list:
+            a_list.append(job.find('a'))
+        for item in a_list:
+            try:
+                job_urls.append('https://www.work.ua' + item.get('href'))
+            except Exception:
+                continue
+        return job_urls
 
-
-def search_job(url=f'https://www.work.ua/jobs-it-python/'):
-    """
-    :param url: урл поиска
-    :return: возвращает все ссылки на вакансии
-    """
-    max_page = get_max_page(url)
-    all_job_url = []
-    for page in range(1, max_page+1):
-        print(f'Страница {page} в обработке...')
-        time.sleep(1)
-        all_job_url.extend(get_job_url(f'{url}?page={page}'))
-    return all_job_url
+    def search_job(url_):
+        """
+        :param url_: урл поиска
+        :return: возвращает все ссылки на вакансии
+        """
+        req = requests.get(url=url_, headers=headers)
+        soup = BeautifulSoup(req.text, 'lxml')
+        m_p = soup.find('ul', class_='pagination hidden-xs').find_all('a')
+        max_page = 1
+        for item in m_p:
+            if item.text.isnumeric():
+                num = int(item.text)
+                if num > max_page:
+                    max_page = num
+        all_job_url = []
+        for page in range(1, max_page+1):
+            print(f'Страница {page} в обработке...')
+            time.sleep(1)
+            all_job_url.extend(get_job_url(f'{url_}?page={page}'))
+        return all_job_url
+    return search_job(url)
 
 
 def get_information(urls):
@@ -100,13 +97,14 @@ def get_information(urls):
     print(f'{count} вакансий было обработано. Запись в файл началась...')
     return vacancies_information
 
+
 def main():
     """
     Записываем все данные в json файл под текущей датой
     """
     cur_date = datetime.now().strftime("%d_%m_%Y")
     with open(fr"blank\vacancies_information_{cur_date}.json", "a", encoding='utf-8') as file:
-        json.dump(get_information(search_job()), file, indent=4, ensure_ascii=False)
+        json.dump(get_information(url_scrap()), file, indent=4, ensure_ascii=False)
     time.sleep(2)
     print('Запись закончена...')
 
